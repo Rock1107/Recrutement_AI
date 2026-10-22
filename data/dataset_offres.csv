@@ -1,0 +1,22 @@
+﻿ID_Offre,Titre_Poste,Categorie_Metier,Competences_Exigees,Niveau_Experience_Exige,Formation_Exigee,Description_Brute
+OFFRE_01,Data Scientist Senior,DATA_SCIENCE,"Python, Machine Learning, SQL, Scikit-Learn, TensorFlow, NLP, FastAPI",Sénior (3 ans et +),Master / Ingénieur,"
+        Nous recherchons un Data Scientist Senior passionné par la conception et le déploiement 
+        de modèles de Machine Learning et de traitement du langage naturel (NLP). 
+        Le candidat idéal maîtrise Python, Scikit-Learn, TensorFlow, les requêtes SQL complexes 
+        et la création d'API REST avec FastAPI pour l'intégration de solutions IA.
+        "
+OFFRE_02,Développeur Fullstack Python / React,INFORMATION-TECHNOLOGY,"Python, Flask, FastAPI, React, JavaScript, PostgreSQL, Docker, Git",Intermédiaire (2 à 5 ans),Licence / Bachelor,"
+        Entreprise en forte croissance cherche un Développeur Fullstack. Vous serez en charge 
+        du développement des fonctionnalités Backend sous Python (Flask/FastAPI) et Frontend en React. 
+        Solides connaissances exigées en bases de données PostgreSQL, conteneurisation Docker et gestion de version Git.
+        "
+OFFRE_03,Responsable Ressources Humaines & Recrutement,HR,"HR, Recrutement, Communication, Management, Excel",Sénior (5 ans et +),Master / Ingénieur,"
+        Nous recrutons un Responsable RH pour piloter l'ensemble du processus de pré-sélection 
+        et d'intégration des talents. Exigence d'une excellente capacité de communication, 
+        d'une maîtrise des techniques de recrutement et de la gestion budgétaire sous Excel.
+        "
+OFFRE_04,Analyste Financier & Comptable,FINANCE,"Finance, Accounting, Audit, Budget, Excel, Power BI",Intermédiaire (2 à 5 ans),Master / Ingénieur,"
+        Poste d'Analyste Financier pour assurer l'élaboration du budget annuel, le suivi comptable 
+        et la création de tableaux de bord décisionnels sous Power BI et Excel. Solides compétences 
+        en analyse de données financières et audit exigées.
+        "

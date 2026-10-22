@@ -4,5 +4,6 @@ numpy
 scikit-learn
 sentence-transformers
 PyMuPDF
+pypdf
 spacy
 plotly
